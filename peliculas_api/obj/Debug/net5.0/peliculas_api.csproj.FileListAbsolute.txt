@@ -142,10 +142,5 @@ C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\bin\Debug\net5.0\pel
 C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\bin\Debug\net5.0\peliculas_api\appsettings.json
 C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\bin\Debug\net5.0\peliculas_api\peliculas_api.deps.json
 C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\bin\Debug\net5.0\peliculas_api\peliculas_api.runtimeconfig.json
-C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\bin\Debug\net5.0\peliculas_api.StaticWebAssets.xml
-C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\obj\Debug\net5.0\staticwebassets\peliculas_api.StaticWebAssets.Pack.cache
-C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\obj\Debug\net5.0\staticwebassets\msbuild.peliculas_api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\obj\Debug\net5.0\staticwebassets\msbuild.build.peliculas_api.props
-C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.peliculas_api.props
-C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.peliculas_api.props
-C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\obj\Debug\net5.0\refint\peliculas_api.dll
+C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\bin\Debug\net5.0\ref\peliculas_api.dll
+C:\Users\USER\Documents\CursoUdemy\UdemyReact\peliculas_api\obj\Debug\net5.0\staticwebassets\peliculas_api.StaticWebAssets.xml
