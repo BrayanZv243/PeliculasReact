@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="api_peliculas" />
+  <setParameter name="peliculas_api.Context.PeliculasDbContext" value="Data source=.\SQLEXPRESS;Initial Catalog=Peliculas;Persist Security Info=False;User ID=SA;Password=lablanquita123;" />
+</parameters>
